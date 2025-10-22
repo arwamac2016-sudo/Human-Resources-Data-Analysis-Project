@@ -1,10 +1,12 @@
 # Human-Resources-Data-Analysis-Project
-A project analyzing Human Resources data using SQL for data transformation.
+A project analyzing Human Resources data using Python Excel and Power Bi for data transformation.
 ## 🚀 Status
 Work in progress...
 
 ## 🛠 Tools Used
-- SQL
+- Excel
+- Python
+- Power Bi
   
 
 ## 👥 Team
